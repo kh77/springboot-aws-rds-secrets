@@ -1,0 +1,6 @@
+com\sm\config\DBConfig.class
+com\sm\config\response\AwsSecretsResponse.class
+com\sm\model\Product.class
+com\sm\model\repo\ProductRepository.class
+com\sm\BootApplication.class
+com\sm\controller\ProductController.class
