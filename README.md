@@ -24,5 +24,5 @@ For steps 4 and 5, use the same username and password as the database.
 
 10. Optional: AWS Access Key and Secret Key can also be accessed from Secrets Manager using Other General Type
 
-![My Image](images/high level aws.PNG)
+![My Image](images/highlevelaws.PNG)
 
